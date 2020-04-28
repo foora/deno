@@ -1,0 +1,2 @@
+[WILDCARD]error TS2532: Object is possibly 'undefined'.
+    at [WILDCARD]tests/error_017_hide_long_source_ts.ts:2:1
